@@ -6,3 +6,5 @@ Este es mi primer cambio en local
 Este es un cambio desde github
 
 una actualizacion mas
+
+Cambios de mi rama local developer
